@@ -1,0 +1,70 @@
+.A4{
+    width: 610px;
+    padding: 30px;
+    margin: 30px;
+    margin-right:auto;
+    margin-left:auto;
+    border: 5px, double, #ebebeb;
+    box-shadow: 0 1px 20px rgba(0, 0, 0, 0.1);
+}
+.tag{
+    color: rgb(255, 195, 123);
+
+}
+.box1{
+    text-align: right;
+}
+.smalltitle{
+    margin:10px;
+    padding: 10px;
+    font-weight: lighter;
+    text-align: left;
+    font-size: 18px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid plum;
+    
+}
+.about-me-text{
+    font-size: 10px;
+    line-height: 16px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.experience-text{
+    margin: 10px;
+    padding: 10px;
+}
+.experience-title, .education-title, .awards-title{
+    font-size: 10px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+}
+.experience-span, .education-span, .awards-span{
+    font-size: 10px;
+    float: right;
+    margin: 10px;
+    padding: 10px;
+}
+
+.detail{
+    font-size: 10px;
+    font-weight: lighter;
+    margin-left:13px;
+    padding-left: 13px;
+}
+section{
+    overflow: hidden;
+    
+}
+.sns-wrap {
+    text-align:right;
+}
+
+.body{
+    min-width: fit-content;
+}
+footer{
+    text-align: center;
+}
